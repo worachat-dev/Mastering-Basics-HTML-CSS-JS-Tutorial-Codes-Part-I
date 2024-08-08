@@ -1,5 +1,3 @@
----
-
 # Mastering the Basics: HTML, CSS, and JavaScript Tutorial Codes Part I
 
 Welcome to the repository for **Mastering the Basics: HTML, CSS, and JavaScript**. This collection includes the sample code from the book *Sams Teach Yourself HTML, CSS, & JavaScript All-in-One* (all editions). Whether you're new to web development or brushing up on your skills, these chapters offer a solid foundation in building modern, standards-compliant websites.
@@ -53,7 +51,7 @@ The sample codes are organized into directories that correspond to the chapter n
 Each chapter's code is stored in a separate directory named after the chapter number. To get started:
 
 1. **Clone this repository**:  
-   `git clone https://github.com/jcmeloni-zz/HTMLCSSJSAiO-code.git`
+   `git clone `
 
 2. **Navigate to the desired chapter directory**:  
    For example, to explore Chapter 7 (Introduction to JavaScript):  
