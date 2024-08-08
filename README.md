@@ -68,5 +68,3 @@ For more details about the book, visit [ThickBook.com](http://www.thickbook.com/
 **Published:** October 2014 by Sams
 
 ---
-
-Feel free to adjust any sections to better fit your needs!
