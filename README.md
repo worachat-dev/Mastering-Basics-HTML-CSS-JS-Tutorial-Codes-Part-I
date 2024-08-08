@@ -51,7 +51,7 @@ The sample codes are organized into directories that correspond to the chapter n
 Each chapter's code is stored in a separate directory named after the chapter number. To get started:
 
 1. **Clone this repository**:  
-   `git clone `
+   `git clone https://github.com/worachat-dev/Mastering-Basics-HTML-CSS-JS-Tutorial-Codes-Part-I.git`
 
 2. **Navigate to the desired chapter directory**:  
    For example, to explore Chapter 7 (Introduction to JavaScript):  
