@@ -1,8 +1,6 @@
-Here’s a regenerated `README.md` file with an engaging title and structured information for the specified chapters and tutorial codes:
-
 ---
 
-# Mastering the Basics: HTML, CSS, and JavaScript Tutorial Codes
+# Mastering the Basics: HTML, CSS, and JavaScript Tutorial Codes Part I
 
 Welcome to the repository for **Mastering the Basics: HTML, CSS, and JavaScript**. This collection includes the sample code from the book *Sams Teach Yourself HTML, CSS, & JavaScript All-in-One* (all editions). Whether you're new to web development or brushing up on your skills, these chapters offer a solid foundation in building modern, standards-compliant websites.
 
